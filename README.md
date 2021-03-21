@@ -6,8 +6,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Completed Bachelors in Computer Engineering from University of Purbanchal.
 - 💼 &nbsp; Actively looking for a full time Software Development position.
-- 🌱 &nbsp; Learning more about Salesforce using JavaScript.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about cloud technologies.
+- ✍️ &nbsp; Pursuing web development technologies using angular and react.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
