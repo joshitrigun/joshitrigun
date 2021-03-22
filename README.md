@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Completed Bachelors in Computer Engineering from University of Purbanchal.
 - 💼 &nbsp; Actively looking for a full time Software Development position.
 - 🌱 &nbsp; Learning more about cloud technologies.
-- ✍️ &nbsp; Pursuing web development technologies using angular and react.
+- ✍️ &nbsp; Pursuing web development using angular and react.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -20,7 +20,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
