@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Completed Bachelors in Computer Engineering from University of Purbanchal.
-- 💼 &nbsp; Actively looking for a full time Software Development position.
+- 💼 &nbsp; Looking for a full time Software Development position.
 - 🌱 &nbsp; Learning more about cloud technologies.
 - ✍️ &nbsp; Pursuing software development using JavaScript.
 
