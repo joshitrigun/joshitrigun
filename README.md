@@ -34,8 +34,8 @@
 <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshitrigun)](https://github.com/joshitrigun/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshitrigun)](https://github.com/joshitrigun/github-readme-stats)
 
+![Trigun's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshitrigun&show_icons=true&theme=radical)
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
