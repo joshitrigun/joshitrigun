@@ -1,6 +1,8 @@
 
 <h2> Hey there! I'm Trigun.</h2>
 
+
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -22,6 +24,7 @@
 - 🛢 &nbsp;
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) &nbsp;
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshitrigun)](https://github.com/joshitrigun/github-readme-stats)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
