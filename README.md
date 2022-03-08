@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Completed Bachelors in Computer Engineering from University of Purbanchal.
 - 💼 &nbsp; Looking for a full time Software Development position.
 - 🌱 &nbsp; Learning more about cloud technologies.
-- ✍️ &nbsp; Currently mastering React and Redux
+- ✍️ &nbsp; Currently lerning more about React and Redux
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
