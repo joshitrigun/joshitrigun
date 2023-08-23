@@ -5,13 +5,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Practicing problem-solving using Javascript and Python.
+- 🤔 &nbsp; Software development using React for front end and Node.js/Python for backend.
 - 🎓 &nbsp; Completed Bachelor's in Computer Engineering from the University of Purbanchal.
 - 💼 &nbsp; Looking for a full-time Software Development position.
-- 🌱 &nbsp; Learning more about cybersecurity.
+- 🌱 &nbsp; Studying cybersecurity from IBM.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
